@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="855.0" prefWidth="962.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.40">
+   <children>
+      <AnchorPane layoutY="-14.0" prefHeight="855.0" prefWidth="962.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <ImageView fitHeight="874.0" fitWidth="990.0" layoutX="-13.0" layoutY="-12.0">
+               <image>
+                  <Image url="@../../../../../Desktop/Poker_Logo.png" />
+               </image>
+            </ImageView>
+            <Button contentDisplay="TOP" layoutX="409.0" layoutY="311.0" mnemonicParsing="false" prefHeight="76.0" prefWidth="156.0" text="Start" underline="true">
+               <font>
+                  <Font size="38.0" />
+               </font>
+               <effect>
+                  <ColorAdjust />
+               </effect>
+            </Button>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

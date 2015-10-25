@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="925.0" prefWidth="1059.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane layoutX="-14.0" layoutY="-2.0" prefHeight="925.0" prefWidth="1059.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <GridPane gridLinesVisible="true" layoutX="220.0" layoutY="71.0" prefHeight="90.0" prefWidth="586.0">
+              <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <children>
+                  <ImageView fitHeight="90.0" fitWidth="82.0">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="3">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="4">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="5">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="6">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </GridPane>
+            <Button layoutX="387.0" layoutY="181.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="70.0" text="Sit" />
+            <Button layoutX="564.0" layoutY="181.0" mnemonicParsing="false" text="Leave" />
+            <Button layoutX="387.0" layoutY="743.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="70.0" text="Sit" />
+            <Button layoutX="564.0" layoutY="743.0" mnemonicParsing="false" text="Leave" />
+            <Button layoutX="49.0" layoutY="386.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="70.0" text="Sit" />
+            <Button layoutX="49.0" layoutY="515.0" mnemonicParsing="false" text="Leave" />
+            <Button layoutX="941.0" layoutY="386.0" mnemonicParsing="false" prefHeight="39.0" prefWidth="70.0" text="Sit" />
+            <Button layoutX="941.0" layoutY="515.0" mnemonicParsing="false" text="Leave" />
+            <Text layoutX="488.0" layoutY="207.0" strokeType="OUTSIDE" strokeWidth="0.0" text="North" />
+            <Text layoutX="490.0" layoutY="769.0" strokeType="OUTSIDE" strokeWidth="0.0" text="South" />
+            <Text layoutX="64.0" layoutY="490.0" strokeType="OUTSIDE" strokeWidth="0.0" text="East" wrappingWidth="40.0009765625" />
+            <Text layoutX="956.0" layoutY="483.0" strokeType="OUTSIDE" strokeWidth="0.0" text="West" />
+            <GridPane gridLinesVisible="true" layoutX="279.0" layoutY="425.0" prefHeight="90.0" prefWidth="465.0">
+               <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <children>
+                  <ImageView fitHeight="89.0" fitWidth="68.0">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="89.0" fitWidth="68.0" GridPane.columnIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="89.0" fitWidth="68.0" GridPane.columnIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="89.0" fitWidth="68.0" GridPane.columnIndex="3">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="89.0" fitWidth="68.0" GridPane.columnIndex="4">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="89.0" fitWidth="68.0" GridPane.columnIndex="5">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="89.0" fitWidth="68.0" GridPane.columnIndex="6">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </GridPane>
+            <Text layoutX="440.0" layoutY="541.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Community Cards" />
+            <ButtonBar layoutX="214.0" layoutY="14.0" prefHeight="40.0" prefWidth="452.0">
+              <buttons>
+                  <Button mnemonicParsing="false" prefHeight="39.0" prefWidth="164.0" text="Start" />
+                <Button mnemonicParsing="false" prefHeight="39.0" prefWidth="159.0" text="Game Type" />
+              </buttons>
+            </ButtonBar>
+            <GridPane gridLinesVisible="true" layoutX="220.0" layoutY="788.0" prefHeight="90.0" prefWidth="586.0">
+               <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <children>
+                  <ImageView fitHeight="90.0" fitWidth="82.0">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="3">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="4">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.columnIndex="5">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="85.0" GridPane.columnIndex="6">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </GridPane>
+            <GridPane gridLinesVisible="true" layoutX="138.0" layoutY="161.0" prefHeight="623.0" prefWidth="82.0">
+               <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <children>
+                  <ImageView fitHeight="90.0" fitWidth="82.0">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="3">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="4">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="5">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="6">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </GridPane>
+            <GridPane gridLinesVisible="true" layoutX="806.0" layoutY="165.0" prefHeight="623.0" prefWidth="82.0">
+               <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <children>
+                  <ImageView fitHeight="90.0" fitWidth="82.0">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="1">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="2">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="3">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="4">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="5">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="90.0" fitWidth="82.0" GridPane.rowIndex="6">
+                     <image>
+                        <Image url="@../../../../../Pictures/Ace_Club.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </GridPane>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
